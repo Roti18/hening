@@ -13,7 +13,7 @@
 
 ## Benchmark Results
 
-![Benchmark Result](./assets/bench.png)
+![Benchmark Result](./assets/benchmarkv001.png)
 
 hening-1: 26.862 ms
 hening-2: 22.059 ms
