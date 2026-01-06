@@ -1,6 +1,3 @@
-## `BENCHMARK`
-
-```md
 # Benchmark
 
 ## Environment
@@ -32,4 +29,3 @@ Average:
 
 Per request:
 24.33 ms / 100.100 ≈ 0.000243 ms ≈ 0.243 mikrodetik
-```
